@@ -1,0 +1,32 @@
+h1
+{
+	color:#0d2a4f;
+}
+label
+{
+	font-size:20px;
+	font-weight:bold;	
+}
+input
+{
+	border-radius:20px;
+	height:20px;
+	padding:15px;
+}
+a
+{
+	text-decoration:none;
+	padding:13px;
+	border:solid 1px;
+	border-radius:17px;
+	background-color:#9adbce;
+}
+body
+{
+	background-color:#c4bbb9;
+}
+#hed-img
+{
+	width:200px;
+	height:75px;
+}

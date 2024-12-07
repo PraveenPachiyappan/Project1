@@ -1,0 +1,170 @@
+#hed
+{	 
+    width:100%;
+}
+#hed #art1-hed
+{  
+	width:30%;
+	float:left;
+}
+#hed #art2-hed
+{  
+	width:60%;
+	float:left;
+}
+#hed-a1{
+	padding-top:30px; 
+	padding-left:20px;
+	padding-bottom:20px;
+	padding-right:30px;
+	border-radius:40px;
+	text-decoration:none;
+	font-size:15px;
+	border:solid 1px;	  
+}
+#hed-a1:hover{
+	padding-left:20px;
+	padding-bottom:40px;
+	padding-right:30px;
+	border-radius:30px;
+	text-decoration:none;
+	font-size:15px;
+	border:solid 0px;
+	color:#d10f2f;
+	background-color:#b5a9a5;	  
+}
+#hed-in
+{
+	margin-left:100px;
+	width:200px;
+	height:30px;
+	border-radius:30px;
+	background-color:#b5a9a5;
+}
+#hed-img
+{
+	width:200px;
+	height:75px;
+}
+.div1
+{ 
+    margin-top:200px;
+    clear:left;	
+}
+#div1-sec1
+{	
+	width:100%;
+}
+.div1-sec1 #sec1-art1
+{
+	width:50%;
+	float:left;
+}
+.div1-sec1 #sec1-art2
+{
+	width:40%;
+	float:left;
+}
+#sec1-art2-img
+{
+	width:100%;
+	height:50%;
+}
+#sec1-art1-h1
+{  
+    font-weight:bold;
+    font-size:40px;
+}	
+#sec1-art1-h3
+{
+	color:#635557;
+}
+.div2
+{ 
+    clear:left;	
+	background-color:#cfd9e6;
+}
+h2
+{
+	font-size:30px;
+	font-weight:bold;
+}
+label
+{
+	font-size:20px;
+	font-weight:bold;	
+}
+input
+{
+	padding:10px;
+	border-radius:9px;
+}
+#div2-a1
+{
+	font-weight:bold;
+	text-decoration:none;
+	font-size:20px;
+	border:solid 1px;
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-left:30px;
+	padding-right:30px;
+    background-color:#ed3921;
+	border-radius:9px;
+}
+#div2-a1:hover
+{
+	text-decoration:none;
+	font-size:20px;
+	border:solid 1px;
+	padding:30px;
+    border-radius:20px;
+	background-color:#2a2d57;
+}
+.div3
+{
+	margin-top:100px;
+}
+#div3-h1
+{ 
+    font-weight:bold;
+    font-size:30px;
+    color:#0d2a4f;
+}
+#div3-p1
+{
+	text-indent:15px;
+	line-height:30px;
+	color:#696463;	
+}
+#div3-img1
+{
+	
+	width:50%;
+	height:26%;
+}
+.div4
+{
+	margin-top:100px;
+}
+#di4-sec2-img
+{
+   float:left;
+   width:300px;
+   height:85px;
+} 
+li
+{
+	line-height:30px;
+	word-spacing:5px;
+}
+.div7
+{
+	margin-bottom:50px;
+}
+#div7-a1
+{
+	text-decoration:none;
+	padding:10px;
+	color:#15194d;
+}
